@@ -1,6 +1,6 @@
-<h1> Hey, I'm Brandon!</a></h1>
+<h1> Hey, it's <a href="https://linkedin.com/in/brandonhonore"> Brandon.</a> Welcome to my projects! </h1>
 
-<h2> 👨🏾‍💻 Information Technology Projects:</h2>
+<h2>👨🏾‍💻 Information Technology</h2>
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
