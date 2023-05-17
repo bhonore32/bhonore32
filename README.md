@@ -3,7 +3,7 @@
 <h2>👨🏾‍💻 Information Technology</h2>
 
 - <b>Microsoft Azure</b>
-- Create a virtual machine (VM) in Mircosoft Azure
+- [Create a virtual machine (VM) in Mircosoft Azure](https://github.com/bhonore32/Creating-Azure-VM)
 - <b>Active Directory</b>
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>
