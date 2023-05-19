@@ -1,6 +1,6 @@
-<h1> Hey, it's <a href="https://linkedin.com/in/brandonhonore"> Brandon.</a> Welcome to my projects! </h1>
+<h1> Hey, it's <a href="https://linkedin.com/in/brandonhonore"> Brandon</a>. Checkout my projects! </h1>
 
-<h2>👨🏾‍💻 Information Technology and Software</h2>
+<h2>👨🏾‍💻 Information Technology</h2>
 
 - <b>Microsoft Azure</b>
 - [Create a virtual machine (VM) in Mircosoft Azure](https://github.com/bhonore32/Creating-Azure-VM)
