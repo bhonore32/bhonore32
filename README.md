@@ -8,7 +8,7 @@
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/bhonore32/osTicket/blob/main/README.md) 
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/bhonore32/osTicket-Lifecycle-Resolution)
+  - [osTicket: Lifecycle Resolution ](https://github.com/bhonore32/osTicket-Lifecycle-Resolution)
 - <b>Wireshark</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/bhonore32/Azure-Computation-and-Networking-)
 - <b>Virtual Private Networks (VPNs)</b>
