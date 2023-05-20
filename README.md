@@ -13,6 +13,7 @@
 - <b>Wireshark</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/bhonore32/Azure-Computation-and-Networking-)
 - <b>Virtual Private Networks (VPNs)</b>
+  - [VPN Configuration](https://github.com/bhonore32/VPN-Configuration)
 
 
 <h2>🤳🏾Connect with me:</h2>
